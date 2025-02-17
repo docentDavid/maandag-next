@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function Docs() {
-  return <div>Documents</div>;
+  return <main>Documents</main>;
 }
