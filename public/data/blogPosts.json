@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Composable Caching with Next.js",
+    "date": "2025-01-03",
+    "description": "We’re working on a simple and powerful caching model for Next.js.",
+    "url": "https://nextjs.org/blog/composable-caching"
+  },
+  {
+    "id": 2,
+    "title": "Next.js 15.1",
+    "date": "2024-12-10",
+    "description": "Next.js 15.1 introduces core upgrades, new APIs, and improvements to the developer experience.",
+    "url": "https://nextjs.org/blog/next-15-1"
+  },
+  {
+    "id": 3,
+    "title": "Our Journey with Caching",
+    "date": "2024-10-24",
+    "description": "Frontend performance can be hard to get right.",
+    "url": "https://nextjs.org/blog/our-journey-with-caching"
+  },
+  {
+    "id": 4,
+    "title": "Next.js 15",
+    "date": "2024-10-21",
+    "description": "Our mission to create the best developer experience continues with Next.js 15.",
+    "url": "https://nextjs.org/blog/next-15"
+  },
+  {
+    "id": 5,
+    "title": "Turbopack Dev is Now Stable",
+    "date": "2024-10-21",
+    "description": "It's been a long road, but we are happy to announce that `next dev --turbo` is now stable.",
+    "url": "https://nextjs.org/blog/turbopack-dev-stable"
+  },
+  {
+    "id": 6,
+    "title": "Next.js 15 RC 2",
+    "date": "2024-10-15",
+    "description": "The Next.js 15 Release Candidate (RC) is now available.",
+    "url": "https://nextjs.org/blog/next-15-rc-2"
+  }
+]
